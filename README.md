@@ -10,4 +10,4 @@
 
 
 ### tweet(X post)
-[tweet](https://twitter.com/tomorrow56/status/1571420604578013184)
+![tweet](https://twitter.com/tomorrow56/status/1571420604578013184)
