@@ -3,7 +3,7 @@
 ![](img/image1.png)
 
 ## Schematics
-[Schematics](img/modified_schematics.png)
+![Schematics](img/modified_schematics.png)
 
 ### Presentation (Cat IoT LT)
 [Presentation](https://speakerdeck.com/tomorrow56/cat-iotlt-connect-the-cat-feeder-to-internet)
