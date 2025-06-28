@@ -35,7 +35,7 @@ Arduino IDEのライブラリマネージャーから以下をインストール
 - M5Atom
 - ArduinoJson
 
-ESP32LineMessengerは手動でインストールが必要な場合があります。
+ESP32LineMessengerは同梱しています。
 
 ### 2. 設定の変更
 `M5Atom_CatFoodFeeder_LineMessagingAPI_WebUI.ino`の以下の部分を編集：
